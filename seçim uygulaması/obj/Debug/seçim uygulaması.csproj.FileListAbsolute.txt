@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\bin\Debug\seçim uygulaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\bin\Debug\seçim uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\bin\Debug\seçim uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim_uygulaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim_uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması\seçim uygulaması\obj\Debug\seçim uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\bin\Debug\seçim uygulaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\bin\Debug\seçim uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\bin\Debug\seçim uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim_uygulaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim_uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\seçim uygulaması-836\seçim uygulaması\obj\Debug\seçim uygulaması.pdb
